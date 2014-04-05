@@ -50,8 +50,6 @@ namespace SmallServer
         }
 
         private List<string> _prefixes = new List<string>() { 
-            "http://localhost:8081/", 
-            "http://127.0.0.1:8081/"
         };
 
         public List<string> Prefixes
